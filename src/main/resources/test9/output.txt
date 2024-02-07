@@ -1,0 +1,8 @@
+User with john.doe@email.com doesn't exist
+Insufficient money in account for buying premium option
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"49900.00"}]}
+{"stocksToBuy":["GOOGL","JPM","ABNB","MSFT","COST","T","V","NFLX","META","GOOG","NVDA","BAC","KO","TMUS","CMCSA","PG","ADBE","AMZN","WMT"]}
+{"stocks":[{"stockName":"ADBE","amount":10},{"stockName":"ORCL","amount":100}],"accounts":[{"currencyName":"USD","amount":"33847.84"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"1000.00"},{"currencyName":"EUR","amount":"0.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"841.00"},{"currencyName":"EUR","amount":"100.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"364.00"},{"currencyName":"EUR","amount":"400.00"}]}
